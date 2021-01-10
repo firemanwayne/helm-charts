@@ -1,4 +1,4 @@
-# My [Helm](https://helm.sh) Charts
+# [Helm](https://helm.sh) Charts
 
 This repository contains [Helm](https://helm.sh) charts for various projects
 
@@ -8,7 +8,7 @@ This repository contains [Helm](https://helm.sh) charts for various projects
 
 Add the Repository to Helm:
 
-    helm repo add my-helm-charts https://firemanwayne.github.io/helm-charts/
+    helm repo add helm-charts https://firemanwayne.github.io/helm-charts/
 
 Install Application 1:
 
