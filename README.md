@@ -12,4 +12,4 @@ Add the Repository to Helm:
 
 Install Application 1:
 
-    helm install my-helm-charts/app1
+    helm install helm-charts/app1
